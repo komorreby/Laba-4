@@ -1,0 +1,5 @@
+﻿  func.cpp
+D:\university\Laba 2.4\func.cpp(188,7): warning C4101: y: неиспользованная локальная переменная
+  main.cpp
+  Создание кода...
+  Laba 2.4.vcxproj -> D:\university\Laba 2.4\Debug\Laba 2.4.exe
